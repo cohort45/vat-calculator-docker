@@ -1,0 +1,2 @@
+image: cohort45/vat:<+pipeline.sequenceId>
+replicas: 1
