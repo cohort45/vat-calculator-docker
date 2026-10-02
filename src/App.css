@@ -14,7 +14,12 @@
 
 body{
   padding: 10px;
-  background-color: darkgrey;
+  background-color: lightgrey;
   color: white;
 
+}
+
+footer {
+  font-size: small;
+  color: bisque;
 }
